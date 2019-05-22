@@ -1,2 +1,2 @@
 # Pytorch_Udacity_scholarship_challenge
-I will add the notebooks soon.
+Run the notebook pytorch_challenge_v3 first then the other.
